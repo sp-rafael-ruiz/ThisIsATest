@@ -10,6 +10,9 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+# Ignore my custom folders
+/[Ee]xternal[Rr]esources
+
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
